@@ -1,0 +1,31 @@
+[ {
+  "uid" : "76bc12e5a34d9b1f",
+  "name" : "test_three",
+  "time" : {
+    "start" : 1676893487124,
+    "stop" : 1676893487125,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "87da2b2b1418495f",
+  "name" : "test_four",
+  "time" : {
+    "start" : 1676893487134,
+    "stop" : 1676893487134,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "15ea82cdc3714014",
+  "name" : "test_mock",
+  "time" : {
+    "start" : 1676893487137,
+    "stop" : 1676893487137,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
