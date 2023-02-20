@@ -1,0 +1,5 @@
+INFO     conftest:conftest.py:54 TEST START: tests/simple_test.py::TestSomethingDoesntWork::test_four
+INFO     tests.simple_test:simple_test.py:46 SETUP METHOD
+INFO     tests.simple_test:simple_test.py:88 Second test started
+INFO     conftest:conftest.py:88 TEST END: tests/simple_test.py::TestSomethingDoesntWork::test_four
+INFO     tests.simple_test:simple_test.py:51 TEARDOWN METHOD

@@ -1,0 +1,62 @@
+{
+  "b249a5c306acbb1fbf95fe2a2b8ac33e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2bb78c1e7aaff59",
+      "reportUrl" : "https://nivato.github.io/actions-test/TSK-020-setup-gh-pages-site/55//#testresult/2bb78c1e7aaff59",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676907020053,
+        "stop" : 1676907020053,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5cc5e72130a3adf89782dea6ed069913" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bfd84f29650bac4e",
+      "reportUrl" : "https://nivato.github.io/actions-test/TSK-020-setup-gh-pages-site/55//#testresult/bfd84f29650bac4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676907020049,
+        "stop" : 1676907020050,
+        "duration" : 1
+      }
+    } ]
+  },
+  "a3ae5104038c01ecb26d92b3f4af7a71" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2ece95e81e3872db",
+      "reportUrl" : "https://nivato.github.io/actions-test/TSK-020-setup-gh-pages-site/55//#testresult/2ece95e81e3872db",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676907020039,
+        "stop" : 1676907020039,
+        "duration" : 0
+      }
+    } ]
+  }
+}
