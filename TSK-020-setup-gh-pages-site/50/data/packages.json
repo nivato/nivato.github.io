@@ -1,0 +1,48 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "tests.simple_test",
+    "children" : [ {
+      "name" : "test_three",
+      "uid" : "4ab7593b650b1517",
+      "parentUid" : "eee7c22924e3ee625487758c2557496e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676892594391,
+        "stop" : 1676892594391,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_four",
+      "uid" : "7fd3475e002f55de",
+      "parentUid" : "eee7c22924e3ee625487758c2557496e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676892594401,
+        "stop" : 1676892594402,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_mock",
+      "uid" : "ee04246db3ec2b78",
+      "parentUid" : "eee7c22924e3ee625487758c2557496e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676892594404,
+        "stop" : 1676892594405,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "tests.simple_test"
+  } ],
+  "name" : "packages"
+}
