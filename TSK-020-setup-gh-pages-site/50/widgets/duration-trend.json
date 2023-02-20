@@ -1,8 +1,0 @@
-[ {
-  "buildOrder" : 50,
-  "reportUrl" : "https://nivato.github.io/actions-test/TSK-020-setup-gh-pages-site/50/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 14
-  }
-} ]
