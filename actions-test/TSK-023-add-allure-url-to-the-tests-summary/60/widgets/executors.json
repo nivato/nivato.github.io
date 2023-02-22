@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://nivato.github.io/actions-test/TSK-023-add-allure-url-to-the-tests-summary",
+  "buildOrder" : 60,
+  "buildName" : "GitHub Actions Run #4242368956",
+  "buildUrl" : "https://github.com/nivato/actions-test/actions/runs/4242368956",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://nivato.github.io/actions-test/TSK-023-add-allure-url-to-the-tests-summary/60/"
+} ]
