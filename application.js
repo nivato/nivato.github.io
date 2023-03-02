@@ -53,11 +53,18 @@
         return line;
     };
 
-    def.createTerminalLink = function(linkText, url){
+    def.createTerminalLink = function(linkText, url, iconImage=undefined){
         let bold = document.createElement("b");
         let link = this.createElementWithClass("a", "t-link");
         link.href = url;
-        link.innerHTML = linkText;
+        if (iconImage){
+            let icon = document.createElement("img");
+            icon.className = "t-link-icon";
+            icon.src = "/images/" + iconImage;
+            link.appendChild(icon);
+            link.innerHTML += " ";
+        }
+        link.innerHTML += linkText;
         bold.appendChild(link);
         return bold;
     };
@@ -73,9 +80,14 @@
         this.addOutputLine("total 248");
         this.addOutputLine();
         let linkLine = this.addOutputLine(
-            "drwx------&nbsp;&nbsp;&nbsp;nivato&nbsp;&nbsp;admin&nbsp;&nbsp;&nbsp;736M&nbsp;",
+            "drwx------&nbsp;&nbsp;nivato&nbsp;&nbsp;admin&nbsp;&nbsp;736M&nbsp;&nbsp;",
         );
-        linkLine.appendChild(this.createTerminalLink("actions-test - Allure Reports", "https://nivato.github.io/actions-test/"));
+        let actionsTestLink = this.createTerminalLink(
+            "actions-test - Allure Reports",
+            "https://nivato.github.io/actions-test/",
+            "allure.png",
+        );
+        linkLine.appendChild(actionsTestLink);
         this.addOutputLine();
         this.addCommandLine("", true);
     };

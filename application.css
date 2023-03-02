@@ -173,3 +173,8 @@ a:focus {
     color: #53B0FF;
     font-size: 18px;
 }
+
+.t-link-icon {
+    display: inline-block;
+    height: 18px;
+}
