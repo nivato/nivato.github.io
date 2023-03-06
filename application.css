@@ -112,6 +112,7 @@ a:focus {
 .dojocat {
     display: block;
     position: absolute;
+    z-index: 0;
     bottom: 0;
     right: 0;
     opacity: 0.3;
@@ -123,6 +124,8 @@ a:focus {
 }
 
 .terminal {
+    position: relative;
+    z-index: 1;
     background-color: rgba(0, 0, 0, .6);
     margin: 20px auto 40px auto;
     padding: 0;

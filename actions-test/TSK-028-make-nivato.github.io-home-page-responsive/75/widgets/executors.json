@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://nivato.github.io/actions-test/TSK-028-make-nivato.github.io-home-page-responsive",
+  "buildOrder" : 75,
+  "buildName" : "GitHub Actions Run #4345383913",
+  "buildUrl" : "https://github.com/nivato/actions-test/actions/runs/4345383913",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://nivato.github.io/actions-test/TSK-028-make-nivato.github.io-home-page-responsive/75/"
+} ]
