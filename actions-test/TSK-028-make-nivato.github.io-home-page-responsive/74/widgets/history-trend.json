@@ -1,0 +1,13 @@
+[ {
+  "buildOrder" : 74,
+  "reportUrl" : "https://nivato.github.io/actions-test/TSK-028-make-nivato.github.io-home-page-responsive/74/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 3,
+    "unknown" : 0,
+    "total" : 3
+  }
+} ]

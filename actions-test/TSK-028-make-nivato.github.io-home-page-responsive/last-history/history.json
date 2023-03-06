@@ -1,0 +1,62 @@
+{
+  "b249a5c306acbb1fbf95fe2a2b8ac33e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "44e4fd415560b7ca",
+      "reportUrl" : "https://nivato.github.io/actions-test/TSK-028-make-nivato.github.io-home-page-responsive/74//#testresult/44e4fd415560b7ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678117512495,
+        "stop" : 1678117512495,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5cc5e72130a3adf89782dea6ed069913" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1c2a06e49850dc2a",
+      "reportUrl" : "https://nivato.github.io/actions-test/TSK-028-make-nivato.github.io-home-page-responsive/74//#testresult/1c2a06e49850dc2a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678117512491,
+        "stop" : 1678117512492,
+        "duration" : 1
+      }
+    } ]
+  },
+  "a3ae5104038c01ecb26d92b3f4af7a71" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b961aa0e2ca2d8ee",
+      "reportUrl" : "https://nivato.github.io/actions-test/TSK-028-make-nivato.github.io-home-page-responsive/74//#testresult/b961aa0e2ca2d8ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678117512481,
+        "stop" : 1678117512481,
+        "duration" : 0
+      }
+    } ]
+  }
+}

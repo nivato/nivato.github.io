@@ -56,8 +56,49 @@ a:focus {
     outline: none;
 }
 
+/* @media #{$S-only} { } */
+@media only screen and (min-width: 321px) and (max-width: 640px) {
+    .panel {
+        width: 100%;
+    }
+    .terminal {
+        width: 100%;
+    }
+    .dojocat {
+        width: 500px;
+        height: 500px;
+    }
+}
+
+/* @media #{$M-only} { } */
+@media only screen and (min-width: 641px) and (max-width: 1024px) {
+    .panel {
+        width: 80%;
+    }
+    .terminal {
+        width: 80%;
+    }
+    .dojocat {
+        width: 600px;
+        height: 600px;
+    }
+}
+
+/* @media #{$L-n-above} { } */
+@media only screen and (min-width: 1025px) {
+    .panel {
+        width: 50%;
+    }
+    .terminal {
+        width: 50%;
+    }
+    .dojocat {
+        width: 700px;
+        height: 700px;
+    }
+}
+
 .panel {
-    width: 50%;
     background-color: #fff;
     margin: 20px auto 60px auto;
     padding: 15px;
@@ -70,8 +111,6 @@ a:focus {
 
 .dojocat {
     display: block;
-    width: 700px;
-    height: 700px;
     position: absolute;
     bottom: 0;
     right: 0;
@@ -84,7 +123,6 @@ a:focus {
 }
 
 .terminal {
-    width: 50%;
     background-color: rgba(0, 0, 0, .6);
     margin: 20px auto 40px auto;
     padding: 0;
