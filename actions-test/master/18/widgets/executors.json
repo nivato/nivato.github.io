@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://nivato.github.io/actions-test/master",
+  "buildOrder" : 18,
+  "buildName" : "GitHub Actions Run #4491225324",
+  "buildUrl" : "https://github.com/nivato/actions-test/actions/runs/4491225324",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://nivato.github.io/actions-test/master/18/"
+} ]
