@@ -1,0 +1,62 @@
+{
+  "b249a5c306acbb1fbf95fe2a2b8ac33e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b7187d12f74295e1",
+      "reportUrl" : "https://nivato.github.io/actions-test/TSK-030-terminal-code-typing-animation/76//#testresult/b7187d12f74295e1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1679496065314,
+        "stop" : 1679496065314,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5cc5e72130a3adf89782dea6ed069913" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bcb9a9d51a62519b",
+      "reportUrl" : "https://nivato.github.io/actions-test/TSK-030-terminal-code-typing-animation/76//#testresult/bcb9a9d51a62519b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1679496065310,
+        "stop" : 1679496065311,
+        "duration" : 1
+      }
+    } ]
+  },
+  "a3ae5104038c01ecb26d92b3f4af7a71" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e3810eb95e6f7c9a",
+      "reportUrl" : "https://nivato.github.io/actions-test/TSK-030-terminal-code-typing-animation/76//#testresult/e3810eb95e6f7c9a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1679496065301,
+        "stop" : 1679496065301,
+        "duration" : 0
+      }
+    } ]
+  }
+}

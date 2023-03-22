@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://nivato.github.io/actions-test/TSK-030-terminal-code-typing-animation",
+  "buildOrder" : 76,
+  "buildName" : "GitHub Actions Run #4491091127",
+  "buildUrl" : "https://github.com/nivato/actions-test/actions/runs/4491091127",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://nivato.github.io/actions-test/TSK-030-terminal-code-typing-animation/76/"
+} ]
