@@ -1,0 +1,42 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Mar 28 12:06:53 GMT 2023","Tue Mar 28 12:06:53 GMT 2023","0","tests","simple_test","TestSomethingDoesntWork","","","test_four","Check that string has property 'join'.
+
+        *Prerequisites*
+            * Non-empty string exists
+
+        *Steps*
+            * Assert that 'join' property can be accessed from the string
+
+        *Expected Results*
+            * No failure during test execution
+        "
+"passed","Tue Mar 28 12:06:53 GMT 2023","Tue Mar 28 12:06:53 GMT 2023","0","tests","simple_test","TestSomethingDoesntWork","","","test_mock","Check that 'SomeClient.my_method' can be mocked.
+
+        *Prerequisites*
+            * SomeClient instance created
+            * SomeClient.my_method is patched and new return_value is
+              specified
+
+        *Steps*
+            * Call SomeClient.my_method()
+            * Assert value returned by SomeClient.my_method()
+
+        *Expected Results*
+            * The return value should be equal to the newly patched value
+        "
+"passed","Tue Mar 28 12:06:53 GMT 2023","Tue Mar 28 12:06:53 GMT 2023","0","tests","simple_test","TestSomethingDoesntWork","","","test_three","Check that user can successfully login to the App.
+
+        *Prerequisites*
+            * User's credentials exist in database
+
+        *Steps*
+            * Open Login page
+            * Fill-in Username/Password fields (use credentials from Setup)
+            * Click 'Login' button
+
+        *Expected Results*
+            * User has successfully logged-in to the App and has been redirected to
+              'Home' page
+            * ""<first name> <last name> (<username>)"" link present on the main menu
+              panel
+        "
