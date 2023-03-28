@@ -1,0 +1,62 @@
+{
+  "b249a5c306acbb1fbf95fe2a2b8ac33e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8326ec506181cf77",
+      "reportUrl" : "https://nivato.github.io/actions-test/TSK-033-add-screenshot-of-allure-report-to-the-pr/77//#testresult/8326ec506181cf77",
+      "status" : "passed",
+      "time" : {
+        "start" : 1680001535500,
+        "stop" : 1680001535500,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5cc5e72130a3adf89782dea6ed069913" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ac5ece8d44eb871e",
+      "reportUrl" : "https://nivato.github.io/actions-test/TSK-033-add-screenshot-of-allure-report-to-the-pr/77//#testresult/ac5ece8d44eb871e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1680001535496,
+        "stop" : 1680001535497,
+        "duration" : 1
+      }
+    } ]
+  },
+  "a3ae5104038c01ecb26d92b3f4af7a71" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3c836957fe3aa263",
+      "reportUrl" : "https://nivato.github.io/actions-test/TSK-033-add-screenshot-of-allure-report-to-the-pr/77//#testresult/3c836957fe3aa263",
+      "status" : "passed",
+      "time" : {
+        "start" : 1680001535485,
+        "stop" : 1680001535485,
+        "duration" : 0
+      }
+    } ]
+  }
+}
