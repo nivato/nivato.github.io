@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://nivato.github.io/actions-test/TSK-032-trigger-another-workflow-in-pr-by-adding-label",
+  "buildOrder" : 85,
+  "buildName" : "GitHub Actions Run #4937227893",
+  "buildUrl" : "https://github.com/nivato/actions-test/actions/runs/4937227893",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://nivato.github.io/actions-test/TSK-032-trigger-another-workflow-in-pr-by-adding-label/85/"
+} ]

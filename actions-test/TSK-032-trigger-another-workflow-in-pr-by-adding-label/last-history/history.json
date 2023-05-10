@@ -1,0 +1,62 @@
+{
+  "b249a5c306acbb1fbf95fe2a2b8ac33e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "10e9c40a143143ab",
+      "reportUrl" : "https://nivato.github.io/actions-test/TSK-032-trigger-another-workflow-in-pr-by-adding-label/85//#testresult/10e9c40a143143ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683723402427,
+        "stop" : 1683723402427,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5cc5e72130a3adf89782dea6ed069913" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7a308eb9da523984",
+      "reportUrl" : "https://nivato.github.io/actions-test/TSK-032-trigger-another-workflow-in-pr-by-adding-label/85//#testresult/7a308eb9da523984",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683723402423,
+        "stop" : 1683723402424,
+        "duration" : 1
+      }
+    } ]
+  },
+  "a3ae5104038c01ecb26d92b3f4af7a71" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8ae9159a68efc177",
+      "reportUrl" : "https://nivato.github.io/actions-test/TSK-032-trigger-another-workflow-in-pr-by-adding-label/85//#testresult/8ae9159a68efc177",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683723402413,
+        "stop" : 1683723402413,
+        "duration" : 0
+      }
+    } ]
+  }
+}
