@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://nivato.github.io/actions-test/TSK-025-introduce-allure-steps-into-pytests",
+  "buildOrder" : 86,
+  "buildName" : "GitHub Actions Run #5854964130",
+  "buildUrl" : "https://github.com/nivato/actions-test/actions/runs/5854964130",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://nivato.github.io/actions-test/TSK-025-introduce-allure-steps-into-pytests/86/"
+} ]

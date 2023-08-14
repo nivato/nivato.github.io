@@ -1,0 +1,62 @@
+{
+  "b249a5c306acbb1fbf95fe2a2b8ac33e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "742b79b086f687b0",
+      "reportUrl" : "https://nivato.github.io/actions-test/TSK-025-introduce-allure-steps-into-pytests/86//#testresult/742b79b086f687b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1692011307528,
+        "stop" : 1692011307528,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5cc5e72130a3adf89782dea6ed069913" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d72b11bc8472eb29",
+      "reportUrl" : "https://nivato.github.io/actions-test/TSK-025-introduce-allure-steps-into-pytests/86//#testresult/d72b11bc8472eb29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1692011307525,
+        "stop" : 1692011307525,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5dd94c73549692ca6be4b049aade65e8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4340b5032c02d185",
+      "reportUrl" : "https://nivato.github.io/actions-test/TSK-025-introduce-allure-steps-into-pytests/86//#testresult/4340b5032c02d185",
+      "status" : "passed",
+      "time" : {
+        "start" : 1692011307515,
+        "stop" : 1692011307516,
+        "duration" : 1
+      }
+    } ]
+  }
+}
