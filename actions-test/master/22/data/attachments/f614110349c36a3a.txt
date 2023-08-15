@@ -1,0 +1,12 @@
+INFO     conftest:conftest.py:54 TEST START: tests/simple_test.py::TestSomethingDoesntWork::test_successful_user_login
+INFO     tests.simple_test:simple_test.py:19 SETUP MODULE
+INFO     tests.simple_test:simple_test.py:34 SETUP CLASS
+INFO     tests.simple_test:simple_test.py:47 SETUP METHOD
+INFO     tests.simple_test:simple_test.py:71 First test started
+INFO     models.browser:browser.py:17 Initializing Browser
+INFO     models.browser:browser.py:28 Setting up user credentials
+INFO     models.browser:browser.py:35 Opening the Login Page
+INFO     models.browser:browser.py:44 Filling in Username/Password fields
+INFO     models.browser:browser.py:51 Clicking Login Button
+INFO     conftest:conftest.py:88 TEST END: tests/simple_test.py::TestSomethingDoesntWork::test_successful_user_login
+INFO     tests.simple_test:simple_test.py:52 TEARDOWN METHOD
