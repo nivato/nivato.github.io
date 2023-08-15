@@ -1,0 +1,6 @@
+INFO     conftest:conftest.py:54 TEST START: tests/simple_test.py::TestSomethingDoesntWork::test_mock
+INFO     tests.simple_test:simple_test.py:47 SETUP METHOD
+INFO     conftest:conftest.py:88 TEST END: tests/simple_test.py::TestSomethingDoesntWork::test_mock
+INFO     tests.simple_test:simple_test.py:52 TEARDOWN METHOD
+INFO     tests.simple_test:simple_test.py:39 TEARDOWN CLASS
+INFO     tests.simple_test:simple_test.py:25 TEARDOWN MODULE

@@ -1,0 +1,62 @@
+{
+  "b249a5c306acbb1fbf95fe2a2b8ac33e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fce35c07bab4bf65",
+      "reportUrl" : "https://nivato.github.io/actions-test/TSK-038-run-jobs-when-specific-changes-in-monorepo-dir/88//#testresult/fce35c07bab4bf65",
+      "status" : "passed",
+      "time" : {
+        "start" : 1692093433200,
+        "stop" : 1692093433200,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5cc5e72130a3adf89782dea6ed069913" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "23dbb0cdb1a73f1e",
+      "reportUrl" : "https://nivato.github.io/actions-test/TSK-038-run-jobs-when-specific-changes-in-monorepo-dir/88//#testresult/23dbb0cdb1a73f1e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1692093433196,
+        "stop" : 1692093433197,
+        "duration" : 1
+      }
+    } ]
+  },
+  "5dd94c73549692ca6be4b049aade65e8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aefcfc60db6f22e5",
+      "reportUrl" : "https://nivato.github.io/actions-test/TSK-038-run-jobs-when-specific-changes-in-monorepo-dir/88//#testresult/aefcfc60db6f22e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1692093433186,
+        "stop" : 1692093433187,
+        "duration" : 1
+      }
+    } ]
+  }
+}
